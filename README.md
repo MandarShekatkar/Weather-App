@@ -45,7 +45,7 @@ Add this:
 ```env
 VITE_API_KEY=your_api_key_here
 
-📦 Installation
+## 📦 Installation
 git clone https://github.com/MandarShekatkar/Weather-App.git
 cd Weather-App
 npm install

@@ -41,9 +41,9 @@ To run this project locally, you need to:
 3. Create a `.env` file in the root folder  
 
 Add this:
-
 ```env
 VITE_API_KEY=your_api_key_here
+
 
 ## 📦 Installation
 git clone https://github.com/MandarShekatkar/Weather-App.git
